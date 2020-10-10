@@ -4,6 +4,7 @@
 //El propósito es poderlo testear para corregir errores de forma
 //local en la parte del código donde falla, en vez de cambiar todo.
 
+//comentario para probar git pull
 
 int main(int argc, char **argv)
 {
